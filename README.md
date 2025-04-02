@@ -18,8 +18,8 @@
 📍https://bit.ly/linkedinashelle
 
 ## 📊 GitHub Status
+![Ashelley Layane GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashelleylay&show_icons=true&theme=radical)
 
-![Ashelley Layane GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
 
 
 

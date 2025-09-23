@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
- Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras. estou me aprofundando em angular e apaixonada por criações web.
+ Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras. Estou me aprofundando em Angular e sou apaixonada por criações web.
 </p>
 
 <br/>
@@ -62,15 +62,14 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
 />
-
- 
+<img 
+    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Git" 
@@ -86,6 +85,14 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C"
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 
 <br/>
@@ -103,24 +110,15 @@
   />
 </p>
 
-<img 
-    align="left" 
-    alt="C"
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-
-  <P>
+<p>
   <img 
     align="left" 
     alt="Top Languages" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashelleylay&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
-</p
+</p>
+
 <div align="center">
   <img src="https://github.com/ashelleylay/ashelleylay/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake Animation" />
 </div>
-

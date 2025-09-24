@@ -139,9 +139,10 @@
     align="left" 
     alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashelleylay&theme=tokyonight&layout=compact&langs_count=10&hide=html,css,python&custom_title=Technologies&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashelleylay&theme=tokyonight&layout=compact&langs_count=10&hide=python&custom_title=Technologies&hide_border=true" 
   />
 </p>
+
 
 <div align="center">
   <img src="https://github.com/ashelleylay/ashelleylay/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake Animation" />

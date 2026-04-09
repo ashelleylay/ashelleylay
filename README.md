@@ -14,13 +14,7 @@
 
 ### 🤝 Let's Connect!
 
-<a href="https://github.com/ashelleylay?tab=followers">
-    <img 
-        alt="Followers" 
-        title="Follow me on GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/followers/ashelleylay?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-    />
-</a>
+
 <a href="https://www.linkedin.com/in/ashelley-layane-025296341/" target="_blank">
     <img 
         alt="LinkedIn" 

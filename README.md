@@ -122,26 +122,6 @@
 <br/>
 <br/>
 
-### 📊 Statistics
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ashelleylay&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
-</p>
-
-<p>
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashelleylay&theme=tokyonight&layout=compact&langs_count=10&hide=python&custom_title=Technologies&hide_border=true" 
-  />
-</p>
 
 
 <div align="center">
